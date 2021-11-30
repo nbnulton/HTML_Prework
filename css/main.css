@@ -1,0 +1,104 @@
+
+/** BASE STYLES **/
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #2b2b2b;
+	background-color: #ebebeb;
+}
+
+
+/** GRID **/
+.full-width{
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+.threefourths-width{
+	width: 895px;
+	float: left;
+	background-color: #ffffff;
+	padding: 0px;
+	border-style: solid;
+	border-color: #ebebeb;
+}
+
+.onefourth-width{
+	width: 295px;
+	float: right;
+	background-color: #ffffff;
+	padding: 0px;
+	border-style: solid;
+	border-color: #ebebeb;
+}
+
+/** HEADER **/
+
+header{
+	background-color: #ffffff;
+	border-style: solid;
+	border-color: #ebebeb;
+}
+
+header h1{
+	font-size: 50px;
+	text-align: center;
+	padding: 25px 0 20px 25px;
+	height: 20px;
+}
+
+nav ul li{
+	float: left;
+	display: inline;
+	font-size: 20px;
+	padding: 5px 20px 20px 5px;
+	padding-left: 20px;
+}
+
+li a{
+	font-size: 20px;
+	padding: 5px 20px 0 10px;
+}
+
+
+
+h2{
+	font-size: 20px;
+	padding: 5px 0 5px 10px;
+	height: 10px;
+}
+
+h3{
+	font-size: 20px;
+	padding: 5px 0 5px 10px;
+	height: 10px;
+}
+
+h4{
+	font-size: 20px;
+	padding: 5px 0 5px 10px;
+	height: 10px;
+}
+
+h5{
+	font-size: 20px;
+	padding: 5px 0 5px 10px;
+	height: 10px;
+}
+
+h6{
+	font-size: 20px;
+	padding: 5px 0 5px 10px;
+	height: 80px;
+}
+p{
+	font-size: 15px;
+	padding: 5px 5px 10px 10px;
+	overflow: visible;
+}
+
+footer{
+	background-color: #ebebeb;
+	padding: 5px 0 5px 10px;
+}
+
